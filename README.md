@@ -8,7 +8,7 @@ Format is EagleCAD schematic and board layout
 
 ### Description
 
-This board is what we use internally at Adafruit to program and test boards with microcontrollers on them. An RP2040 Pico (or perhaps PicoW?) is used to run the test software. Use a 16x2 LCD (ideally RGB backlight) for display output with color feedback such as green for pass, red for fail. Firmware files can be stored on MicroSD card which is slotted in. USB Host testing is done with bitbang PIO support in TinyUSB! The RP2040 can also perform ESP32 programming, RP2040-via-USB, AVR ICSP/UPDI, or SWD DAP. Connect the right hand side to the device-under-test jig which can be different for each product.
+This board is what we use internally at Adafruit to program and test boards with microcontrollers on them. An [RP2040 Pico](https://www.adafruit.com/product/5525) (or perhaps PicoW?) is used to run the test software. [Use a 16x2 LCD (ideally RGB backlight)](https://www.adafruit.com/product/398)( for display output with color feedback such as green for pass, red for fail. Firmware files can be stored on MicroSD card which is slotted in. Connect the right hand side to the device-under-test jig which can be different for each product. [USB Host testing is done with bitbang PIO support in TinyUSB!](https://github.com/adafruit/Adafruit_TinyUSB_Arduino) The RP2040 can also perform ESP32 programming, RP2040-via-USB, AVR ICSP/UPDI, or SWD DAP. [See the TestBed library for some examples.](https://github.com/adafruit/Adafruit_TestBed)
 
 **THIS IS NOT AN ADAFRUIT PRODUCT, IT IS COMPLETELY AND UTTERLY UNSUPPORTED. DO NOT ASK FOR SUPPORT OR ASSISTANCE, WE DON'T GUARANTEE IT WORKS FOR YOU OR AT ALL AND ARE ONLY PUBLISHING IT IN THE HOPES THAT IT IS USEFUL FOR SOMEONE!**
 
