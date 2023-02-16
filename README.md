@@ -10,33 +10,11 @@ Format is EagleCAD schematic and board layout
 
 INSERT PRODUCT COPY HERE
 
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/watch?v=sjl7aVK2Q2U"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/watch?v=3gakI1QBvXw"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/live/iSWNARXhVM0?feature=share&t=951"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+[![rp2040 programming an rp2040 ~ flash inception](https://img.youtube.com/vi/sjl7aVK2Q2U/0.jpg)](https://www.youtube.com/watch?v=sjl7aVK2Q2U)
+
+[![The Desk of Ladyada - RP2040 Tester bringup & LCD QT revisions](https://img.youtube.com/vi/3gakI1QBvXw/0.jpg)](https://www.youtube.com/watch?v=3gakI1QBvXw)
+
+[![Desk of Ladyada - Teensy Tester Redesigned to RP2040 Pico](https://img.youtube.com/vi/iSWNARXhVM0/0.jpg)](https://www.youtube.com/live/iSWNARXhVM0?feature=share&t=951)
 
 ### License
 
